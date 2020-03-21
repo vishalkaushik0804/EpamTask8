@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: com.vishalkaushik.epamtask8.RemoveATest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 0.003 sec <<< FAILURE!
+com.vishalkaushik.epamtask8.RemoveATest.test1stChar()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.vishalkaushik.epamtask8.RemoveATest.test1stChar(RemoveATest.java:29)
+
+com.vishalkaushik.epamtask8.RemoveATest.testNo1st2AChars()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.vishalkaushik.epamtask8.RemoveATest.testNo1st2AChars(RemoveATest.java:44)
+
+com.vishalkaushik.epamtask8.RemoveATest.test1st2Chars()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.vishalkaushik.epamtask8.RemoveATest.test1st2Chars(RemoveATest.java:34)
+
+com.vishalkaushik.epamtask8.RemoveATest.testChars()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.vishalkaushik.epamtask8.RemoveATest.testChars(RemoveATest.java:49)
+
+com.vishalkaushik.epamtask8.RemoveATest.test2ndChar()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.vishalkaushik.epamtask8.RemoveATest.test2ndChar(RemoveATest.java:39)
+
