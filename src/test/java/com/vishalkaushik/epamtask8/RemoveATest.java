@@ -14,7 +14,7 @@ public class RemoveATest {
 	 * 1. 1st char A : ABCD => BCD - SUCCESS
 	 * 2. 1st 2chars A : AACD => CD - SUCCESS
 	 * 3. 2nd char A : BACD => BCD - SUCCESS
-	 * 4. no 1st A's : BBAA => BBAA - SUCCESS
+	 * 4. No 1st 2 A's : BBAA => BBAA - SUCCESS
 	 * 5. 1st last A's : AABAA => BAA - SUCCESS
      */
     RemoveTwoAChars remove_1st_2A_char;
