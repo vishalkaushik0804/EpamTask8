@@ -17,7 +17,7 @@ public class RemoveATest {
 	 * 4. No 1st 2 A's : BBAA => BBAA - SUCCESS
 	 * 5. 1st last A's : AABAA => BAA - SUCCESS
      */
-    RemoveTwoAChars remove_1st_2A_char;
+    RemoveTwoAChars remove_1st_2A_char = new RemoveTwoAChars();
 
     @BeforeEach
     public void setUp() throws Exception {
